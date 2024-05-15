@@ -6,6 +6,8 @@
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin_yee)](https://solved.ac/jin_yee/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subjin_yee)](https://solved.ac/subjin_yee/)
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kjinyeek=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # 💪Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
