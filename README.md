@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JIN__YEE'S%20GITHUB&fontSize=90)
 
-#📊stats
+# 📊stats
 ![Jin__Yee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinyeek&show_icons=true&theme=ambient_gradient)
 ### Main Account
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jin_yee/)
