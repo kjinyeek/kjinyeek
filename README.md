@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JIN__YEE'S%20GITHUB&fontSize=90)
 
 # 📊stats
+# GitHub
 ![Jin__Yee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinyeek&show_icons=true&theme=ambient_gradient)
-### Main Account
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jin_yee/)
-### Sub Account
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/subjin_yee/)
+### Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin_yee)](https://solved.ac/jin_yee/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subjin_yee)](https://solved.ac/subjin_yee/)
 # 💪Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
