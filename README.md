@@ -2,7 +2,7 @@
 
 # 📊stats
 ### GitHub
-![Jin__Yee's GitHub stats](https://github-readme-stats.vercel.app/api?username=subjin_yee&show_icons=true&theme=ambient_gradient)
+![Jin__Yee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinhyeek&show_icons=true&theme=ambient_gradient)
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin_yee)](https://solved.ac/jin_yee/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subjin_yee)](https://solved.ac/subjin_yee/)
