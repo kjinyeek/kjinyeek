@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JIN__YEE'S%20GITHUB&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JIN__YEE'S%20GITHUB&fontSize=90)
 
 # 📊stats
-# GitHub
+### GitHub
 ![Jin__Yee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinyeek&show_icons=true&theme=ambient_gradient)
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin_yee)](https://solved.ac/jin_yee/)
